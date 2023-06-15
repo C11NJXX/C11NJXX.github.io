@@ -145,7 +145,7 @@
     width: 16px;
     height: 16px;
     /* 这里改变跟随的底色 */
-    background: var(--theme-color);
+    background: rgba(233, 30, 99) ;
     border-radius: 8px;
     opacity: 0.25;
     z-index: 10086;
@@ -239,10 +239,10 @@ div#archive {
 
 /* 阅读模式 */
 .read-mode #aside-content .card-widget {
-    background: rgba(158, 204, 171, 0.5) !important;
+    background: rgba(233, 30, 99, 0.9) !important;
 }
 .read-mode div#post {
-    background: rgba(158, 204, 171, 0.5) !important;
+    background: rgba(233, 30, 99, 0.9) !important;
 }
 
 /* 夜间模式下的阅读模式 */
