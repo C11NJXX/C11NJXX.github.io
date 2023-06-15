@@ -225,7 +225,7 @@ div#archive {
 [data-theme="dark"] div#post,
 [data-theme="dark"] div#archive,
 [data-theme="dark"] div#page {
-    background: var(--trans-pink);
+    background: var(--trans-light);
 }
 
 
@@ -247,10 +247,10 @@ div#archive {
 
 /* 夜间模式下的阅读模式 */
 [data-theme="dark"] .read-mode #aside-content .card-widget {
-    background: rgba(25, 25, 25, 0.9) !important;
-    color: #ffffff;
+    background: rgba(233, 30, 99, 0.9) !important;
+    color: #9C27B0;
 }
 [data-theme="dark"] .read-mode div#post {
-    background: rgba(25, 25, 25, 0.9) !important;
-    color: #ffffff;
+    background: rgba(233, 30, 99, 0.9) !important;
+    color: #9C27B0;
 }
