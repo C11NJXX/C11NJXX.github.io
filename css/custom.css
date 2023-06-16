@@ -185,7 +185,7 @@
 
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item {
-    background: var(--trans-dark);
+    background: var(--trans-light);
     backdrop-filter: var(--backdrop-filter);
     border-radius: 25px;
     border: var(--border-style);
@@ -193,7 +193,7 @@
 
 /* 首页侧栏卡片 */
 #aside-content .card-widget {
-    background: var(--trans-dark);
+    background: var(--trans-light);
     backdrop-filter: var(--backdrop-filter);
     border-radius: 18px;
     border: var(--border-style);
@@ -203,7 +203,7 @@
 div#post,
 div#page,
 div#archive {
-    background: var(--trans-dark);
+    background: var(--trans-light);
     backdrop-filter: var(--backdrop-filter);
     border: var(--border-style);
     border-radius: 20px;
