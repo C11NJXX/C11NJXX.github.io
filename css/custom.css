@@ -251,7 +251,7 @@ div#archive {
     color: #9C27B0;
 }
 [data-theme="dark"] .read-mode div#post {
-    background: rgba(233, 30, 99, 0.9) !important;
+    background: rgba(200, 230, 201, 0.9) !important;
     color: #9C27B0;
 }
 
