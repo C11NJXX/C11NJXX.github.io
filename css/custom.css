@@ -239,7 +239,7 @@ div#archive {
 
 /* 阅读模式 */
 .read-mode #aside-content .card-widget {
-    background: rgba(233, 30, 99, 0.9) !important;
+    background: rgba(200, 230, 201, 0.9) !important;
 }
 .read-mode div#post {
     background: rgba(233, 30, 99, 0.9) !important;
@@ -247,7 +247,7 @@ div#archive {
 
 /* 夜间模式下的阅读模式 */
 [data-theme="dark"] .read-mode #aside-content .card-widget {
-    background: rgba(233, 30, 99, 0.9) !important;
+    background: rgba(200, 230, 201, 0.8) !important;
     color: #9C27B0;
 }
 [data-theme="dark"] .read-mode div#post {
