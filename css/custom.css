@@ -225,7 +225,7 @@ div#archive {
 [data-theme="dark"] div#post,
 [data-theme="dark"] div#archive,
 [data-theme="dark"] div#page {
-    background: var(--trans-light);
+    background: var(--trans-dark);
 }
 
 
