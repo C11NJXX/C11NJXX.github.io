@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>杂谈</title>
+      <link href="/2023/06/21/life1/"/>
+      <url>/2023/06/21/life1/</url>
+      
+        <content type="html"><![CDATA[<p>记录一下最近生活吧</p><span id="more"></span>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活，杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>搭个站的小心得</title>
       <link href="/2023/06/18/%E6%90%AD%E4%B8%AA%E7%AB%99%E7%9A%84%E5%B0%8F%E5%BF%83%E5%BE%97/"/>
       <url>/2023/06/18/%E6%90%AD%E4%B8%AA%E7%AB%99%E7%9A%84%E5%B0%8F%E5%BF%83%E5%BE%97/</url>
@@ -13,7 +40,7 @@
       
       <categories>
           
-          <category> Hexo </category>
+          <category> 学习，hexo </category>
           
           <category> butterfly </category>
           
@@ -43,6 +70,10 @@
       <categories>
           
           <category> 学习 </category>
+          
+          <category> 算法 </category>
+          
+          <category> Java </category>
           
       </categories>
       
