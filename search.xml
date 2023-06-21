@@ -13,7 +13,9 @@
       
       <categories>
           
-          <category> 生活，杂谈 </category>
+          <category> 生活 </category>
+          
+          <category> 杂谈 </category>
           
       </categories>
       
@@ -40,7 +42,9 @@
       
       <categories>
           
-          <category> 学习，hexo </category>
+          <category> 学习 </category>
+          
+          <category> hexo </category>
           
       </categories>
       
@@ -71,7 +75,7 @@
           
           <category> 算法 </category>
           
-          <category> 学习，Java </category>
+          <category> Java </category>
           
       </categories>
       
