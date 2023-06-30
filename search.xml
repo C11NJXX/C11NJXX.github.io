@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>树的数据结构与算法</title>
+      <link href="/2023/06/30/LearnAlgorithm1/"/>
+      <url>/2023/06/30/LearnAlgorithm1/</url>
+      
+        <content type="html"><![CDATA[<p>记录一下学习算法和数据结构的过程（树）</p><span id="more"></span><h1 id="树🌳"><a href="#树🌳" class="headerlink" title="树🌳"></a>树🌳</h1><h2 id="1-概念学习"><a href="#1-概念学习" class="headerlink" title="1.概念学习"></a>1.概念学习</h2><p><img src="https://c11njxxsblog.oss-cn-hangzhou.aliyuncs.com/20230630111354.png" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 算法 </tag>
+            
+            <tag> 数据结构 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>杂谈</title>
       <link href="/2023/06/21/life1/"/>
       <url>/2023/06/21/life1/</url>
@@ -76,9 +103,9 @@
       
         <tags>
             
-            <tag> 离散数学 </tag>
-            
             <tag> 算法 </tag>
+            
+            <tag> 离散数学 </tag>
             
             <tag> Java </tag>
             
