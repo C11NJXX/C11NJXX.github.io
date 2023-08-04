@@ -20,9 +20,7 @@
       
         <tags>
             
-            <tag> Java，Set </tag>
-            
-            <tag> Map </tag>
+            <tag> Java，Queue，Deque，Stack，进制转换 </tag>
             
         </tags>
       
@@ -74,9 +72,9 @@
       
         <tags>
             
-            <tag> Java，Set </tag>
-            
             <tag> Map </tag>
+            
+            <tag> Java，Set </tag>
             
         </tags>
       
@@ -101,11 +99,11 @@
       
         <tags>
             
-            <tag> Map </tag>
-            
             <tag> Java，集合 </tag>
             
             <tag> List </tag>
+            
+            <tag> Map </tag>
             
         </tags>
       
