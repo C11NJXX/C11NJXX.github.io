@@ -20,7 +20,15 @@
       
         <tags>
             
-            <tag> Java，Queue，Deque，Stack，进制转换 </tag>
+            <tag> Java </tag>
+            
+            <tag> Queue </tag>
+            
+            <tag> Deque </tag>
+            
+            <tag> Stack </tag>
+            
+            <tag> 进制转换 </tag>
             
         </tags>
       
@@ -47,7 +55,9 @@
             
             <tag> 算法 </tag>
             
-            <tag> 哈希表，数组 </tag>
+            <tag> 哈希表 </tag>
+            
+            <tag> 数组 </tag>
             
         </tags>
       
@@ -72,9 +82,11 @@
       
         <tags>
             
-            <tag> Map </tag>
+            <tag> Java </tag>
             
-            <tag> Java，Set </tag>
+            <tag> Set </tag>
+            
+            <tag> Map </tag>
             
         </tags>
       
@@ -99,11 +111,13 @@
       
         <tags>
             
-            <tag> Java，集合 </tag>
-            
-            <tag> List </tag>
+            <tag> Java </tag>
             
             <tag> Map </tag>
+            
+            <tag> 集合 </tag>
+            
+            <tag> List </tag>
             
         </tags>
       
@@ -128,7 +142,9 @@
       
         <tags>
             
-            <tag> Java，泛型 </tag>
+            <tag> Java </tag>
+            
+            <tag> 泛型 </tag>
             
         </tags>
       
@@ -155,7 +171,9 @@
             
             <tag> 算法 </tag>
             
-            <tag> 哈希表，字符串 </tag>
+            <tag> 哈希表 </tag>
+            
+            <tag> 字符串 </tag>
             
         </tags>
       
@@ -319,9 +337,9 @@
             
             <tag> 算法 </tag>
             
-            <tag> 离散数学 </tag>
-            
             <tag> Java </tag>
+            
+            <tag> 离散数学 </tag>
             
         </tags>
       
