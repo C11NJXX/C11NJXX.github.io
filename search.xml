@@ -8,7 +8,7 @@
       <link href="/2024/03/06/Algo_2_1/"/>
       <url>/2024/03/06/Algo_2_1/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>教材：《算法导论》<br>记录大二下学习数据结构的过程</p><span id="more"></span>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>教材：《算法导论》<br>记录大二下学习数据结构的过程</p><span id="more"></span><h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><p>由于是数据结构2课程，所以默认的我们是熟悉了一些基本的数据结构与算法<br>但是说实在的，这方面我还是做的比较薄弱<br>不过今天的课听起来感觉还不错，有思路过程有板书，随着课程的深入还是需要慢慢的补缺</p><h2 id="今日所学大致"><a href="#今日所学大致" class="headerlink" title="今日所学大致"></a>今日所学大致</h2><p>首先介绍了为什么要学习算法，用一个数学计算对比，得出了优化算法带来的收益要远大于优化硬件<br>随后通过了一个插入算法，引出了分析算法正确性，实质上就是通过数学归纳法<br>随后又提出了分析算法 使用RAM模型，提出了本书的一些约定性<br>再是提到了插入算法的优化，引出了分治的概念</p>]]></content>
       
       
       <categories>
@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> 算法导论 </tag>
-            
             <tag> 数据结构 </tag>
+            
+            <tag> 算法导论 </tag>
             
         </tags>
       
@@ -35,7 +35,7 @@
       <link href="/2024/03/06/React_1/"/>
       <url>/2024/03/06/React_1/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>记录大二下学习React的过程</p><span id="more"></span>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>记录大二下学习React的过程</p><span id="more"></span><h2 id="初识React"><a href="#初识React" class="headerlink" title="初识React"></a>初识React</h2><p>上了一次课，觉得react的一大特点就是他设计了一个虚拟DOM，这个虚拟DOM可以方便在每次添加数据<br>时不需要重新渲染重复的dom对象</p><h2 id="使用React"><a href="#使用React" class="headerlink" title="使用React"></a>使用React</h2><p>上课时的实例通过引入三个js文件，相当于引入第三方的框架，许多功能进行了封装，这是我学编程体会到的<br>一大特点，技术需要进行一定的封装，提高开发效率</p>]]></content>
       
       
       <categories>
@@ -163,9 +163,9 @@
             
             <tag> Java </tag>
             
-            <tag> Set </tag>
-            
             <tag> Map </tag>
+            
+            <tag> Set </tag>
             
         </tags>
       
@@ -192,11 +192,11 @@
             
             <tag> Java </tag>
             
-            <tag> Map </tag>
-            
             <tag> 集合 </tag>
             
             <tag> List </tag>
+            
+            <tag> Map </tag>
             
         </tags>
       
@@ -304,9 +304,9 @@
       
         <tags>
             
-            <tag> 数据结构 </tag>
-            
             <tag> 算法 </tag>
+            
+            <tag> 数据结构 </tag>
             
         </tags>
       
@@ -331,9 +331,9 @@
       
         <tags>
             
-            <tag> 数据结构 </tag>
-            
             <tag> 算法 </tag>
+            
+            <tag> 数据结构 </tag>
             
         </tags>
       
