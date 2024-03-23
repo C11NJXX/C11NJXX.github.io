@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>PythonLearning_1</title>
+      <link href="/2024/03/23/pythonLearn_1/"/>
+      <url>/2024/03/23/pythonLearn_1/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://www.youtube.com/watch?v=XKHEtdqhLK8&amp;t=824s">Learn From Bro Code</a><br>p29-</p><span id="more"></span><h1 id="29-random-number"><a href="#29-random-number" class="headerlink" title="29 random number"></a>29 random number</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">&#123;<span class="keyword">import</span> random</span><br><span class="line"></span><br><span class="line"><span class="comment"># generate random integer number</span></span><br><span class="line"></span><br><span class="line">x = random.randint(<span class="number">1</span>, <span class="number">100</span>)  <span class="comment"># 1-100</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;The random integer number = &quot;</span>, x)</span><br><span class="line">y = random.random()  <span class="comment"># generate float number(0-1)</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;The random float number = &quot;</span>, y)</span><br><span class="line"></span><br><span class="line"><span class="comment"># random can also be used in list</span></span><br><span class="line"></span><br><span class="line">myList = [<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>, <span class="number">4</span>, <span class="number">5</span>, <span class="number">6</span>, <span class="number">7</span>, <span class="number">8</span>, <span class="number">9</span>, <span class="string">&#x27;A&#x27;</span>, <span class="string">&#x27;B&#x27;</span>, <span class="string">&#x27;C&#x27;</span>]</span><br><span class="line"></span><br><span class="line"><span class="comment"># random visit myList</span></span><br><span class="line"><span class="built_in">print</span>(random.choice(myList))</span><br><span class="line"></span><br><span class="line"><span class="comment"># shuffle myList</span></span><br><span class="line">shuffle = random.shuffle(myList)</span><br><span class="line"><span class="built_in">print</span>(shuffle)</span><br><span class="line"></span><br><span class="line"><span class="comment"># question : Why shuffle is None?</span></span><br><span class="line"><span class="comment"># The reason why shuffle is None is because the random.shuffle() function in Python shuffles the list in place and doesn&#x27;t return anything (or returns None).</span></span><br><span class="line"><span class="comment"># So when you do shuffle = random.shuffle(myList), you&#x27;re assigning the return value of random.shuffle(myList) to shuffle, which is None. This is why shuffle is None.</span></span><br><span class="line"><span class="comment"># To achieve what you intended, which is shuffling myList, you should just call random.shuffle(myList) without assigning its return value to any</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(myList)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>数据结构与算法2_1</title>
       <link href="/2024/03/06/Algo_2_1/"/>
       <url>/2024/03/06/Algo_2_1/</url>
@@ -20,9 +47,9 @@
       
         <tags>
             
-            <tag> 数据结构 </tag>
-            
             <tag> 算法导论 </tag>
+            
+            <tag> 数据结构 </tag>
             
         </tags>
       
@@ -163,9 +190,9 @@
             
             <tag> Java </tag>
             
-            <tag> Map </tag>
-            
             <tag> Set </tag>
+            
+            <tag> Map </tag>
             
         </tags>
       
@@ -192,11 +219,11 @@
             
             <tag> Java </tag>
             
+            <tag> Map </tag>
+            
             <tag> 集合 </tag>
             
             <tag> List </tag>
-            
-            <tag> Map </tag>
             
         </tags>
       
@@ -304,9 +331,9 @@
       
         <tags>
             
-            <tag> 算法 </tag>
-            
             <tag> 数据结构 </tag>
+            
+            <tag> 算法 </tag>
             
         </tags>
       
@@ -331,9 +358,9 @@
       
         <tags>
             
-            <tag> 算法 </tag>
-            
             <tag> 数据结构 </tag>
+            
+            <tag> 算法 </tag>
             
         </tags>
       
